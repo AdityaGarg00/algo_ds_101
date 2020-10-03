@@ -1,4 +1,4 @@
-# Tried an array of Characters in a string example with my name.
+// Tried an array of Characters in a string example with my name.
 
 #include <stdio.h>
 int main()
